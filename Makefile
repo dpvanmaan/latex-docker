@@ -1,4 +1,4 @@
-NS = blang
+NS = dpvanmaan
 REPO = latex 
 NAME = latex 
 VOLUMES = -v $PWD:/data
