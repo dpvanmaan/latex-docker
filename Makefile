@@ -1,6 +1,6 @@
 NS = dpvanmaan
-REPO = latex 
-NAME = latex 
+REPO = latex2rtf 
+NAME = latex2rtf 
 VOLUMES = -v $PWD:/data
 
 .PHONY: build shell run start stop stoprm rm
